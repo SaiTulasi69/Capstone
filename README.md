@@ -37,7 +37,7 @@ The emergence of social media platforms has brought about both opportunities and
 ## How to navigate through the code in the jupyter notebook 
 ### Extraction of Video urls and Video Ids 
 1. Open the **Data_Extraction_Classification** Jupyter notebook and pip install the mentioned libraries.
-2. Import the mention libraries.
+2. Import the mentioned libraries.
 3. Now create a text file called video_ids 
 4. Now execute the first block of code to extract the video urls and video ids for a youtube searchquery that is already given in the code.
 5. The output files for this step would be the Djokovic.csv that consists of video urls and the video_ids.txt files which consists of video ids.
